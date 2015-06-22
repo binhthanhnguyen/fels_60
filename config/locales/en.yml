@@ -36,3 +36,5 @@ en:
     welcome: "Welcome to Framgia Elearning System"
     log_in:
       danger: "Invalid email/password combination."
+    update:
+      success: "updated profile successfully!"
