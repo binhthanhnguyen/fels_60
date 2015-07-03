@@ -23,24 +23,18 @@ en:
   layouts:
     base_title: "Framgia E-Learning System"
     home:
-    welcome: "Welcome to Framgia Elearning System"
-    account: "Account"
+      welcome: "Welcome to Framgia Elearning System"
   links:
-    users: "Users"
     contact: "Contact"
     about: "About"
     help: "Help"
     home: "Home"
     logo: "Framgia E-Learning System"
     log_in: "Log in"
-    log_out: "Log out"
-    profile: "Profile"
-    settings: "Settings"
     sign_up: "Sign up now"
     word: "Words"
     course: "Courses"
   messages:
-    notice: "Please log in."
     welcome: "Welcome to Framgia Elearning System"
     log_in:
       danger: "Invalid email/password combination."
@@ -52,6 +46,3 @@ en:
     lesson:
       success: "Lesson created!"
       danger: "Something wrong!"
-    submit: "Submit"
-    remember: "Remember me on this computer"
-    new_user: "New user?"
